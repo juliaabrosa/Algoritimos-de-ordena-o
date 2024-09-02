@@ -1,4 +1,6 @@
-# Algoritimos de ordenação
+## Julia Rosa
+
+## Algoritimos de ordenação
 ### Exercício 826 do LeetCode
 
 O desafio proposto consistia em receber 3 vetores: "difficulty", "profit" e "worker" e ter como saída a soma do valor recebido por esses trabalhadores.
